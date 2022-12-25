@@ -4,13 +4,48 @@ cache_url = "https://MoDawn.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 150
 category = "cs.CL"
 title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.CY"
+title = "Computers and Society"
+
+[[sources]]
+limit = 150
+category = "cs.DB"
+title = "Databases"
+
+[[sources]]
+limit = 150
+category = "cs.DL"
+title = "Digital Libraries"
+
+[[sources]]
+limit = 150
+category = "cs.DM"
+title = "Discrete Mathematics"
+
+[[sources]]
+limit = 150
+category = "cs.FL"
+title = "Formal Languages and Automata Theory"
+
+[[sources]]
+limit = 150
+category = "cs.GL"
+title = "General Literature"
+
+[[sources]]
+limit = 150
+category = "cs.GR"
+title = "Graphics"
 
 [[sources]]
 limit = 150
@@ -19,13 +54,33 @@ title = "Information Retrieval"
 
 [[sources]]
 limit = 150
+category = "cs.IT"
+title = "Information Theory"
+
+[[sources]]
+limit = 150
+category = "cs.LO"
+title = "Logic in Computer Science"
+
+[[sources]]
+limit = 150
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.NE"
+title = "Neural and Evolutionary Computing"
+
+[[sources]]
+limit = 150
+category = "cs.SI"
+title = "Social and Information Networks"
+
+[[sources]]
+limit = 150
+category = "cs.SC"
+title = "Symbolic Computation"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
