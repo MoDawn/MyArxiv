@@ -19,18 +19,8 @@ title = "Computers and Society"
 
 [[sources]]
 limit = 150
-category = "cs.DB"
-title = "Databases"
-
-[[sources]]
-limit = 150
 category = "cs.DL"
 title = "Digital Libraries"
-
-[[sources]]
-limit = 150
-category = "cs.DM"
-title = "Discrete Mathematics"
 
 [[sources]]
 limit = 150
@@ -44,18 +34,8 @@ title = "General Literature"
 
 [[sources]]
 limit = 150
-category = "cs.GR"
-title = "Graphics"
-
-[[sources]]
-limit = 150
 category = "cs.IR"
 title = "Information Retrieval"
-
-[[sources]]
-limit = 150
-category = "cs.IT"
-title = "Information Theory"
 
 [[sources]]
 limit = 150
@@ -66,11 +46,6 @@ title = "Logic in Computer Science"
 limit = 150
 category = "cs.LG"
 title = "Machine Learning"
-
-[[sources]]
-limit = 150
-category = "cs.NE"
-title = "Neural and Evolutionary Computing"
 
 [[sources]]
 limit = 150
